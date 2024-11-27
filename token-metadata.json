@@ -1,0 +1,10 @@
+{
+  "name": "GiggleGoose",
+  "symbol": "GOOSE",
+  "description": "Gather Our Own Sustainable Economy Meme Coin",
+  "image": "https://raw.githubusercontent.com/DrRainmakerGG/Coin/4799ea13277e6076e0194fe2fbee4297699a45ba/amblem.png",
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Meme Coin" },
+    { "trait_type": "Network", "value": "Solana" }
+  ]
+}
